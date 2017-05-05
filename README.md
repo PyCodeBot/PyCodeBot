@@ -12,3 +12,8 @@ Also unlike those CI's that would fail because of pep8 or other issues like isor
 ## Development
 
 Currently since I am not exactly sure on making an github integration like this it would have to be an learning process.
+
+## Extending
+
+This could eventually be extended to check for future PEP issues (or for PEP7 on C Code). But for now PEP8 and the other things like import sorting is planned.
+
